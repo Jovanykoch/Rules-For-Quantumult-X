@@ -1,0 +1,12 @@
+# === OpenAI / ChatGPT ===
+host-suffix, openai.com, PROXY
+host-suffix, api.openai.com, PROXY
+host-suffix, chat.openai.com, PROXY
+host-suffix, platform.openai.com, PROXY
+host-suffix, cdn.openai.com, PROXY
+host-suffix, openaiapis.com, PROXY
+host-suffix, openai.azure.com, PROXY
+host-suffix, openai-staging.com, PROXY
+# CDNs / 静态资源可能托管位置
+host-suffix, cloudfront.net, PROXY
+host-suffix, amazonaws.com, PROXY
