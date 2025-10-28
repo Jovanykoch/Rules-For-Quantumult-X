@@ -1,0 +1,25 @@
+# === JJC.edu 全域 ===
+host-suffix, jjc.edu, PROXY
+host-suffix, duosecurity.com, PROXY
+host-suffix, mywconline.com, PROXY
+
+# === Canvas 教学平台 ===
+host-suffix, instructure.com, PROXY
+host-suffix, canvaslms.com, PROXY
+host-suffix, cloudfront.net, PROXY
+host-suffix, amazonaws.com, PROXY
+host-suffix, speedgrader.com, PROXY
+host-suffix, turnitin.com, PROXY
+host-suffix, turnitinuk.com, PROXY
+host-suffix, turnitincdn.com, PROXY
+host-suffix, pandadocs.com, PROXY
+host-suffix, zoom.us, PROXY
+
+# === Microsoft/Office 登录服务 ===
+host-suffix, microsoftonline.com, PROXY
+host-suffix, office.com, PROXY
+host-suffix, office365.com, PROXY
+host-suffix, live.com, PROXY
+host-suffix, outlook.com, PROXY
+host-suffix, msftauth.net, PROXY
+host-suffix, msauth.net, PROXY
